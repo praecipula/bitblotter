@@ -28,3 +28,12 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
+# Apparently necessary gems that conflict with system-wide gems (Win)
+gem 'did_you_mean'
+gem 'etc'
+gem 'fileutils'
+gem 'zlib'
+gem 'stringio'
+gem 'date'
+gem 'strscan'
+# end system conflict gems
