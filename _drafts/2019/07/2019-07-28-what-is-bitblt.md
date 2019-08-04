@@ -1,7 +1,7 @@
 ---
 layout: tech
 title: What's in a Name - Bitwise Block Transfer
-categories: [tech meta]
+categories: [tech meta pre-cursor]
 ---
 
 
