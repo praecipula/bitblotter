@@ -4,3 +4,4 @@ _site
 *.swp
 *.swo
 _site
+.DS_Store
