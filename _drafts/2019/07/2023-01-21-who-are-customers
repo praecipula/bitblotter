@@ -1,0 +1,38 @@
+---
+template: post
+date:01-01-2023
+---
+
+# Who are the customers of DevRel?
+
+I find the fact that DevRel exists in a cross-functional and cross-organizational space energizing. There is something freeing in being in the liminal space between teams where there are very few rote answers or off-the-shelf solutions to many problems. One of the joys of DevRel is finding new and better ways to engage with our audience.
+
+But who is our audience?
+
+## DevRel owns developer experience
+
+In [Who is Developer Relations] I touched on how I believe that Developer Relations owns the developer experience. By this I don't mean an adoption or usage experience, that is, the zero-to-one experience of a developer walking through the process of adoption or usage of an API. That is a perfectly valid and important concern, and may be owned by DevRel or some other team within the organization.
+
+I mean rather the human experience of interfacing with your product and your team: who are your developers? And what are their experiences like?
+
+So the following is a breakdown of some of the various audiences and stakeholders that DevRel interacts with.
+
+## Also interface on the outside:
+### External developers themselves
+### Support / user operations teams
+### Client account teams
+### UXR
+### Sales teams
+### Marketing
+
+## Internal teams
+### Engineering (api)
+### Engineering (non-api / product)
+### Product management / planners
+
+## Also, not part of job function of ICs
+### Management chain
+### Recruiting
+### 
+
+DevRel is a filter and an emulsifier between teams
