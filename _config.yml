@@ -17,15 +17,18 @@ title: Bitblotter
 email: dropclic@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Matt's blog about nothing in particular!
-baseurl: "/bitblotter" # the subpath of your site, e.g. /blog
 url: "praecipula.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  praecipula
+permalink: pretty
+
+paginate: 10
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

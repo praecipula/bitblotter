@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "615f5e512c3d1b69",
+    "type": "split",
+    "children": [
+      {
+        "id": "389a49df010a4d65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa370c3af3483a96",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f21dd95f9627ee54",
+    "type": "split",
+    "children": [
+      {
+        "id": "4357aa1799961b8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec1cb7361bba06f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a43e21e2d5054493",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "009b7b3a25c690d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9431e99eeaa7fbd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "20786b5b23a4087d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50cd0f0da1b05046",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ff671c918213337",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14c2b4cde4205a60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35840dae354ab4ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fa370c3af3483a96",
+  "lastOpenFiles": [
+    "_drafts/2022/2022-11-17-what-is-devrel.md"
+  ]
+}
