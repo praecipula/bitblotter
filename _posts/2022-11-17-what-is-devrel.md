@@ -3,11 +3,26 @@ layout: post
 title: What is Developer Relations
 ---
 
-It happened more often than not - I'd introduce myself to a new member of the team, or a colleague at a conference, or a new acquaintance asking that age old question, "What do you do?"
+It happens more often than not when introducing myself to someone new - that age-old question, "What do you do?"
 
-"Oh, I'm in Developer Relations"
+Generally I respond that I'm a software engineer and see if they continue to be curious. It's a little white lie, I must admit, but close enough to the truth to give people the right idea without charging off quixotically into tales of educating others, liasising across teams, and interfacing with developers across whole industries. I could talk about this for ages of course, just as anyone passionate about their job likes to do, but I'm also keenly aware that most people don't really want to be taken on a theme park ride through the Journey of Relationships that they can't get off, or at least, they don't generally want to when asking such a simple introductory question.
 
-Cue that frozen smile and nod that means, "Ah, OK, maybe I'll figure it out from context." I learned to be on the lookout for that smile because, honestly, it's just really difficult to get a clear picture from context clues. It's kind of like engineering, kind of like sales, kind of like marketing, kind of like customer support--and at the same time distinct from all of the above.
+I'm slightly ashamed to admit that I do this because I assume the volume of content I have is much greater in span than the attention of someone I've known for all of 27 seconds. Perhaps more folks would be interested than I assume, but we've all been there when a simple introduction turns into a TED talk.
+
+{% include captioned_image.html
+  alt="Fry meme: not sure if boring or I don't care"
+  caption="This is how to lose new friends" 
+  attribution="quickmeme.com"%}
+
+So. Software Engineer it is. Close enough.
+
+But sometimes just sometimes, people *are* more interested, and we start to get into the details. What do I **really** do? What frameworks does my team use? What team do I work on? What does a typical day look like?
+
+And then what?
+
+Here's what I talk about.
+
+## Hard problems, soft people, software, and hard deadlines.
 
 As the conversation swings between discussion of the merits of React Native, monetization plans for a startup idea, marketing funnels, Javascript polyfills, sales motions, and database indexing strategies, Developer Advocates[^1] can often hang with most of the topics. Does that mean DevRel is engineering? Does that mean they are salespeople? Are they in marketing? Do they build software for our company?
 

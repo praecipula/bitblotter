@@ -1,0 +1,32 @@
+@import "colors";
+
+.captioned-image {
+  text-align: center;
+  .captioned-image-content {
+    display: block;
+    margin: auto;
+    max-width: 26rem;
+    background-color: $inset_background;
+    img {
+      margin: 1rem;
+      margin-bottom:0;
+      max-width: 24rem;
+      display: inline;
+    }
+    .image-attribution {
+      margin: 0;
+      margin-bottom: 0.5rem;
+      line-height: 0;
+      text-align: right;
+      font-style: italic;
+      font-size: 0.5rem;
+    }
+  }
+}
+
+.image-caption {
+  font-size: 0.8rem;
+  color: $lighter_text;
+  font-style: italic;
+  font-weight: 700;
+}
